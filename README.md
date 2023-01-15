@@ -5,7 +5,6 @@
 <h3>Currently focused working on:</h3>
 
 * Cross-Platform App Development (Flutter, Dart, MongoDB, Firebase)
-* DevSecOps (Fuzzing)
 
 <h3>Already worked with:</h3>
 
