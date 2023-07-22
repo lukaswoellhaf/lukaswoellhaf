@@ -2,17 +2,21 @@
 
 <p align="center"><img src="assets/header.jpg" width="280" height="300"/></p>
 
-<h3>Currently focused working on:</h3>
+<h3> 🎯 Currently focused working on:</h3>
 
-* Cross-Platform App Development (Flutter, Dart, MongoDB, Firebase)
+* Web Applications (Golang, ReactJS/Typescript, PostgreSQL, Apache Kafka)
+* Cross-Platform App Development (Flutter/Dart, MongoDB, Firebase)
 
-<h3>Already worked with:</h3>
+<h3> 🗓 Already worked with:</h3>
 
-* Java, Spring, Docker, Jenkins, Kubernetes
+* Docker, Kubernetes, Jenkins
+* Java, Spring Boot, Gradle
+* Fuzzing (e.g. [cifuzz](https://github.com/CodeIntelligenceTesting/cifuzz), [RESTler](https://github.com/microsoft/restler-fuzzer))
 
-<h3>Want to learn:</h3>
+<h3> 📚 Want to learn:</h3>
 
 * Kotlin
+* Github Actions
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
