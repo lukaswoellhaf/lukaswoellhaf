@@ -1,6 +1,6 @@
 <h1 align="center">Hi there ٩( ๑╹ ꇴ╹)۶</h1>
 
-<p align="center"><img src="assets/header.jpg" width="280" height="300"/></p>
+<p align="center"><img src="assets/header.jpg" width="240" height="260"/></p>
 
 <h3> 🎯 Currently focused working on:</h3>
 
